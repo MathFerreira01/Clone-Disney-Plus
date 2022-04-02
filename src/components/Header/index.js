@@ -1,6 +1,7 @@
 import React from 'react'
 import { Nav, Logo, NavMenu, UserImg} from './styles'
 
+
 function Header() {
   return (
     <Nav>

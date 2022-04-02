@@ -102,6 +102,7 @@ export const SubTitle = styled.div`
 `;
 
 export const Description = styled.div`
+    width: 50%;
     line-height: 1.4;
     font-size: 20px;
     margin-top: 16px;

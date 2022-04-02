@@ -8,17 +8,30 @@ function Movies() {
         <h4>Recommended for you</h4>
         <Content>
             <Wrap>
-                <img src="https://m.media-amazon.com/images/I/81vTHovrz+L._AC_SL1500_.jpg" alt=""/>
+                <img src="https://miro.medium.com/max/1400/1*QboSaAfbqZczUyEkkRd0EA.jpeg" alt=""/>
             </Wrap>
             <Wrap>
-                <img src="https://m.media-amazon.com/images/I/81vTHovrz+L._AC_SL1500_.jpg" alt=""/>
+                <img src="https://miro.medium.com/max/1400/1*QboSaAfbqZczUyEkkRd0EA.jpeg" alt=""/>
             </Wrap>
             <Wrap>
-                <img src="https://m.media-amazon.com/images/I/81vTHovrz+L._AC_SL1500_.jpg" alt=""/>
+                <img src="https://miro.medium.com/max/1400/1*QboSaAfbqZczUyEkkRd0EA.jpeg" alt=""/>
             </Wrap>
             <Wrap>
-                <img src="https://m.media-amazon.com/images/I/81vTHovrz+L._AC_SL1500_.jpg" alt=""/>
+                <img src="https://miro.medium.com/max/1400/1*QboSaAfbqZczUyEkkRd0EA.jpeg" alt=""/>
             </Wrap>
+            <Wrap>
+                <img src="https://miro.medium.com/max/1400/1*QboSaAfbqZczUyEkkRd0EA.jpeg" alt=""/>
+            </Wrap>
+            <Wrap>
+                <img src="https://miro.medium.com/max/1400/1*QboSaAfbqZczUyEkkRd0EA.jpeg" alt=""/>
+            </Wrap>
+            <Wrap>
+                <img src="https://miro.medium.com/max/1400/1*QboSaAfbqZczUyEkkRd0EA.jpeg" alt=""/>
+            </Wrap>
+            <Wrap>
+                <img src="https://miro.medium.com/max/1400/1*QboSaAfbqZczUyEkkRd0EA.jpeg" alt=""/>
+            </Wrap>
+            
         </Content>
     </Container>
   )
